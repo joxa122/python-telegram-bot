@@ -23,7 +23,8 @@ import sys
 from typing import Optional
 
 from . import __version__ as telegram_ver
-from .constants import BOT_API_VERSION
+from .constants import 7741331718:AAHsph-AYWYccDidZa9Bv6vaeHs0tYjTpz8
+
 
 
 def _git_revision() -> Optional[str]:
